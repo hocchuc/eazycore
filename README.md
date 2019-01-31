@@ -1,6 +1,6 @@
 # EazyCore
 Code base for Android
-
+[![Release](https://jitpack.io/v/harrylefit/eazycore.svg)](https://jitpack.io/#harrylefit/eazycore/2.1)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6619cd5f41d44885bf516647877bd83b)](https://www.codacy.com/app/harryle-fit/eazycore?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=harrylefit/eazycore&amp;utm_campaign=Badge_Grade)
 [![codebeat badge](https://codebeat.co/badges/f86c6d81-3314-49b3-9e22-8215a3c387f4)](https://codebeat.co/projects/github-com-harrylefit-eazycore)
 [![Dependency Status](https://www.versioneye.com/user/projects/5899fd201e07ae0046f5912a/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/5899fd201e07ae0046f5912a)
@@ -67,7 +67,7 @@ Download
 --------
 
 ```groovy
-compile 'com.github.harrylefit:eazycore:1.0.7.3'
+	implementation 'com.github.harrylefit:eazycore:2.1'
 ```
 
 #Licence
